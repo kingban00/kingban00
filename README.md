@@ -26,3 +26,8 @@ const king = {
     }
 }
 ```
+
+Links:
+-   Linkedin:   https://www.linkedin.com/in/yann-gabriel/
+-   Portifólio: https://kingban00.github.io/Portfolio/
+-   Twitter:    https://twitter.com/kingban00
