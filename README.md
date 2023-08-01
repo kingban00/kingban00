@@ -9,7 +9,7 @@
   
    
  <div style="display: inline_block"><br>
-   <img align="left" height="350" alt="Otctodex" src="NUX_Octodex.gif" />
+   <img align="left" height="250" alt="Otctodex" src="NUX_Octodex.gif" />
  <div align="center">
    
    ### Minhas principais tecnologias
